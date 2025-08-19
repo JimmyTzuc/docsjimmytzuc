@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://JimmyTzuc.github.io/docsjimmytzuc/blog</id>
+    <title>Jimmy Tzuc Docs Blog</title>
+    <updated>2025-07-18T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://JimmyTzuc.github.io/docsjimmytzuc/blog"/>
+    <subtitle>Jimmy Tzuc Docs Blog</subtitle>
+    <icon>https://JimmyTzuc.github.io/docsjimmytzuc/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome to My Blog]]></title>
+        <id>https://JimmyTzuc.github.io/docsjimmytzuc/blog/welcome</id>
+        <link href="https://JimmyTzuc.github.io/docsjimmytzuc/blog/welcome"/>
+        <updated>2025-07-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey there! I'm Jimmy Tzuc, a software engineer from Yucatán, México.]]></summary>
+        <content type="html"><![CDATA[<p>Hey there! I'm <strong>Jimmy Tzuc</strong>, a software engineer from Yucatán, México.</p>
+<p>This blog is my corner of the web where I share:</p>
+<ul>
+<li>🛠 Insights from real-world software engineering</li>
+<li>🧪 Lessons learned from projects and experiments</li>
+<li>📌 Quick technical tips and code snippets</li>
+<li>🧠 Reflections on continuous learning and personal growth</li>
+<li>💬 Thoughts about developer life and career</li>
+</ul>
+<!-- -->
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-a-blog">Why a Blog?<a href="https://jimmytzuc.github.io/docsjimmytzuc/blog/welcome#why-a-blog" class="hash-link" aria-label="Direct link to Why a Blog?" title="Direct link to Why a Blog?">​</a></h2>
+<p>Over the past years, I've realized that <strong>writing helps me think clearer</strong>, retain what I learn, and connect with other devs. Some things are too valuable to just keep in our heads or lost in bookmarks.</p>
+<p>So here we are — building a space to <strong>document, reflect, and share</strong>.</p>
+<p>Whether you're a fellow developer, a student, or just curious, I hope you find something useful or relatable here.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-language-notice">🌐 Language Notice<a href="https://jimmytzuc.github.io/docsjimmytzuc/blog/welcome#-language-notice" class="hash-link" aria-label="Direct link to 🌐 Language Notice" title="Direct link to 🌐 Language Notice">​</a></h2>
+<p>Some articles will be written in <strong>Spanish</strong>, as it's my native language and helps me express certain ideas more naturally.</p>
+<p>Whenever that’s the case, I’ll include a clear notice at the top of the post. I believe language shouldn't be a barrier to sharing knowledge.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-topics-ill-cover">🔍 Topics I’ll Cover<a href="https://jimmytzuc.github.io/docsjimmytzuc/blog/welcome#-topics-ill-cover" class="hash-link" aria-label="Direct link to 🔍 Topics I’ll Cover" title="Direct link to 🔍 Topics I’ll Cover">​</a></h2>
+<ul>
+<li>My Culture</li>
+<li>Backend &amp; DevOps deep dives</li>
+<li>Notes on Python, Java, JavaScript</li>
+<li>System design reflections</li>
+<li>Career advice and learning tactics</li>
+<li>Personal projects &amp; experiments</li>
+</ul>
+<hr>
+<blockquote>
+<p><em>“Documenting what you learn is a way of thinking in public.”</em></p>
+</blockquote>
+<hr>
+<p>Thanks for reading — feel free to browse and explore!</p>
+<blockquote>
+<p><em>"Knowledge shared is knowledge squared."</em> 💡</p>
+</blockquote>
+<p>Happy coding!<br>
+<!-- -->— <strong>Jimmy</strong></p>]]></content>
+        <author>
+            <name>Jimmy Tzuc</name>
+            <uri>https://jimmytzuc.com</uri>
+        </author>
+        <category label="Hello" term="Hello"/>
+    </entry>
+</feed>
